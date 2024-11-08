@@ -1,0 +1,26 @@
+a:link{
+color:rgb(200, 143, 253);
+font-size:49px;
+text-align:center;
+padding:34px 36px 34px 36px;
+border:2px inset purple;
+border-radius:1em;
+}
+a:visited{
+color:pink;
+}
+a:hover{
+    color:aquamarine;
+    font-size:100px;;
+}
+a:active{
+
+color:yellow;
+}
+button:hover{
+    background-color:blueviolet;
+}
+ul:nth-child(6){
+color:gold;
+
+}
